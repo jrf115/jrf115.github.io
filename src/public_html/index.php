@@ -9,8 +9,6 @@ include_once '../html/header.php';
     jrf115.github.io
     John Fahringer
 
-        A Quiznaire Application that uses Apache Solr to index and easily retrieve data to generate questions. 
-
 --->
 
 <header>

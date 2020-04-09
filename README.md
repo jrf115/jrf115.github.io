@@ -1,2 +1,2 @@
-# jrf115.github.io
-  A website to show a cool representation of my repository and other things!
+# [jrf115.github.io](https://www.github.com/jrf115 "John's College Github Page")
+  A website to show my repository and other cool things!

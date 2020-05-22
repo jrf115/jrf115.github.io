@@ -10,9 +10,8 @@ body {
 } 
 
 h1 {
-    color: blue;
+    color: darkblue;
     text-align: center;
-    border-style: ridge;
     border-color: wheat;
     background-color: lightgrey;
 }

@@ -16,6 +16,14 @@ h1 {
     background-color: lightgrey;
 }
 
+h2 {
+    padding: 10px;
+}
+
+p {
+    margin: 25px 0 25px 0; 
+}
+
 
 /** CSS for Bootstrap elements **/
 

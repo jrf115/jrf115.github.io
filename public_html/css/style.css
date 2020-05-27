@@ -7,7 +7,7 @@ body {
     background-color: goldenrod;
     border-style: solid;
     text-align: center;
-} 
+}
 
 h1 {
     color: darkblue;
@@ -20,7 +20,7 @@ h2 {
 }
 
 p {
-    margin: 25px 0 25px 0; 
+    margin: 25px 0 25px 0;
 }
 
 hr {
@@ -30,20 +30,20 @@ hr {
 /** CSS for Bootstrap elements **/
 
 .selector-for-some-widget {
-  box-sizing: content-box;
+    box-sizing: content-box;
 }
 
 .navbar > a.navbar-brand {
-    color:white;
+    color: white;
     text-align: left;
 }
 
 a.col.nav-link:link {
-    color:gold;
+    color: gold;
 }
 
 a.col.nav-link.disabled {
-    color:grey;
+    color: grey;
 }
 
 /* Child Selector > */

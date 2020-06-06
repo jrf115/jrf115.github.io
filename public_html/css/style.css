@@ -51,3 +51,18 @@ a.col.nav-link.disabled {
     padding-left: 50px;
     padding-right: 50px;
 }
+
+.carousel {
+    max-height: 540px;
+    max-width: 960px;
+    overflow: hidden;
+    padding: 10px;
+    resize: horizontal;
+    height: calc(100vh - 16px);
+}
+
+.carousel-inner img {
+    height: 540px;
+    width: 960px;
+    object-fit: contain;
+}

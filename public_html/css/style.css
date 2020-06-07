@@ -27,6 +27,25 @@ hr {
     border: 2px solid white;
 }
 
+#about_pic {
+    border: none;
+    text-align: center;
+    opacity: 1;
+    transition: 0.5s linear;
+    padding: auto;
+}
+
+#about_pic:hover {
+    opacity: 1;
+    background-color: goldenrod;
+    border-width: 15px;
+    border-style: ridge;
+    border-color: darkblue;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+
 /** CSS for Bootstrap elements **/
 
 .selector-for-some-widget {

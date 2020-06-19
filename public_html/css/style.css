@@ -45,6 +45,10 @@ hr {
     padding: 4px;
 }
 
+.current_page {
+    
+}
+
 
 /** CSS for Bootstrap elements **/
 
@@ -57,7 +61,7 @@ hr {
     text-align: left;
 }
 
-a.col.nav-link:link {
+a.col.nav-link.active {
     color: gold;
 }
 

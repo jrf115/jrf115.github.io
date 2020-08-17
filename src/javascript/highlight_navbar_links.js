@@ -1,6 +1,6 @@
 /** Requires jqery-3.3.1.js **/
 // Call to Highlight current page
-$(document).ready (function highlightNavLink () {  
+$(document).ready(function highlightNavLink () {
     var link = document.getElementsByClassName("current_page")[0].id;
     switch (link) {
         case "index":
